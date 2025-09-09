@@ -1,6 +1,4 @@
-==========================================================
-            c_runtime_api.cc            
-==========================================================
+//            c_runtime_api.cc            
 /*!
  *  Copyright (c) 2017 by Contributors
  * \file c_runtime_api.cc
